@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:models="clr-namespace:AR_Notas.Models"
              x:Class="AR_Notas.Views.AR_AboutPage"
-             Title="AR_AboutPage1">
+             Title="AR_AboutPage12">
     <ContentPage.BindingContext>
         <models:AR_About />
     </ContentPage.BindingContext>
